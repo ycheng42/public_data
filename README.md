@@ -1,2 +1,3 @@
 # Kaggle_public_dataset
-* [Titanic](https://www.kaggle.com/c/titanic/overview)
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
+
